@@ -7,13 +7,18 @@
 
   flash miui and format data
   enter to fastboot
-> fastboot reboot fastboot
+fastboot reboot fastboot
   in fastbootd , touch "enable adb" after 5s touch "enable fastboot"
-> fastboot erase system
-> fastoot flash vbmeta vbmeta.img
-> fastboot flash system system.img
-> fastboot -w
-> fastboot reboot recovery
+fastboot erase system
+
+fastoot flash vbmeta vbmeta.img
+
+fastboot flash system system.img
+
+fastboot -w
+
+astboot reboot recovery
+
   flash magisk and reboot
  open magisk 
  flash riru
