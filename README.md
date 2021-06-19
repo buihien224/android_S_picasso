@@ -8,7 +8,9 @@
   flash miui and format data
   enter to fastboot
 fastboot reboot fastboot
-  in fastbootd , touch "enable adb" after 5s touch "enable fastboot"
+
+in fastbootd , touch "enable adb" after 5s touch "enable fastboot"
+
 fastboot erase system
 
 fastoot flash vbmeta vbmeta.img
