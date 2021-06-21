@@ -7,7 +7,7 @@
  -  [Gsi img](https://dl.google.com/developers/android/sc/images/gsi/gsi_gms_arm64-exp-SPB2.210513.007-7398525-ad5569cb.zip)
  - [MIUI 12.5](https://hugeota.d.miui.com/V12.5.2.0.RGICNXM/miui_PICASSO_V12.5.2.0.RGICNXM_8f5c35ebbc_11.0.zip)
  - [OFRP](https://orangefox.download/device/picasso)
- - [FASTBOOT](FASTBOOT%20tool) tool
+ - [FASTBOOT](https://developer.android.com/studio/releases/platform-tools) tool
 
 ##  Prepare
 
