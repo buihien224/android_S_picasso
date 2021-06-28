@@ -37,11 +37,11 @@
 	 - Flash **A12 extension** module
 	 - reboot and follow **A12 extension** instruction
 	
- - Install Pixel launcher
+ - Pixel launcher
 	 - install  **NexusLauncherRelease.apk**
 	 - install **quickswitch**
 	 - choose *pixel launcher* in  **quickswitch**
-	 -  reboot
+	 - reboot
 
     
 
