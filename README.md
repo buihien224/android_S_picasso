@@ -1,6 +1,8 @@
 # # Android S for Picasso
 `Hi this is a instruction to install android S gsi on Picasso` .
 
+#BUGS : Incall audio , 3.5 jack
+
 
 # Required 
 
