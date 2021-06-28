@@ -12,7 +12,7 @@
 
  1.  **Download all files in this repository**
  2.  **Install orange fox recovery**
- 3.  **Extract Super.zip and copy super.img and boot.img to your phone**
+ 3.  **Extract Super.zip then copy super.img and boot.img to your phone**
  4.  **Flash super.img as super partition and boot.img as boot partition**
  5.  **Flash Magisk and Format data and reboot**
  
@@ -24,7 +24,7 @@
     Setup 
     Open Magisk and update
     Flash fixfixfix.zip as magisk module 
-    to fix audio abd get circle icon shape
+    to fix audio and get circle icon shape
     
    **install 120fps.apk to enable 120hz**
    
