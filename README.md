@@ -1,47 +1,35 @@
-# # Android S for Picasso
-`Hi this is a instruction to install android S gsi on Picasso` .
+# # Project : Android S for Picasso
+`Hi this is a place u can find fix file for GSI` .
 
-#BUGS : Incall audio , 3.5 jack
+#Features
+
+- Improved FPS almost no drop fps anymore
+- Enable Fingerprint
+- Enable New Gboard
+- Enable ....
+
+#Fixing
+
+- Fix Ghost Touch
+- Fix Audio cracking
+- Fix Lag 
+- Fix no audio
+- .. mirror fix
+
+#BUGS : D2TW, BTaudio
 
 
 # Required 
 
- -  [Rom and Boot](https://mega.nz/folder/b0oCjCxA#jqMIIo-_TE2TDzBd5bryBg)
- -  [OFRP](https://orangefox.download/device/picasso)
-##  Flashing
+- Magisk
+- Android 12 : https://t.me/XiaomiRedmiK30/75857
 
- 1.  **Download all files in this repository**
- 2.  **Install orange fox recovery**
- 3.  **Extract Super.zip then copy super.img and boot.img to your phone**
- 4.  **Flash super.img as super partition and boot.img as boot partition**
- 5.  **Flash Magisk and Format data and reboot**
- 
+# Install A12 extensions
 
-# Fixing and Custom 
-
-**In system** , do
-
-    Setup 
-    Open Magisk and update
-    Flash fixfixfix.zip as magisk module 
-    to fix audio and get circle icon shape
-    
-   **install 120fps.apk to enable 120hz**
-   
-  **Optional** 
-  
-
- - Enable Material You 
 	 - Flash **Riru** module 
 	 - Flash **LSposed** module
 	 - Flash **A12 extension** module
-	 - reboot and follow **A12 extension** instruction
-	
- - Pixel launcher
-	 - install  **NexusLauncherRelease.apk**
-	 - install **quickswitch**
-	 - choose *pixel launcher* in  **quickswitch**
-	 - reboot
+	 - reboot and follow **A12 extension**
 
     
 
