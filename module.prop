@@ -1,6 +1,6 @@
 id=HienYeuLinkNhieu
 name=Fix K305G
-version=0.5
-versionCode=10
+version=v0.5.1
+versionCode=11
 author=bhlnk
-description=Fixed , improved on GSI S for K30 5G
+description=hotfix drop fps
