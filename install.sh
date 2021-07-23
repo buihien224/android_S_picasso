@@ -29,6 +29,8 @@ REPLACE="
 /system/usr/keylayout/uinput-fpc.kl
 /system/usr/keylayout/uinput-goodix.kl
 /system/system_ext/priv-app/HbmSVManager
+/system/system_ext/priv-app/YadaYada
+/system/framework/services.jar
 "
 # Enable silky GBoard
 ##########################################################################################

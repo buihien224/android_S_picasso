@@ -28,7 +28,8 @@ REPLACE="
 /system/usr/keylayout/gpio-keys.kl
 /system/usr/keylayout/uinput-fpc.kl
 /system/usr/keylayout/uinput-goodix.kl
-system/system_ext/priv-app/HbmSVManager
+/system/system_ext/priv-app/HbmSVManager
+/system/system_ext/priv-app/YadaYada
 "
 # Enable silky GBoard
 ##########################################################################################
