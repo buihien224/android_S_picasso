@@ -31,6 +31,7 @@ REPLACE="
 /system/system_ext/priv-app/HbmSVManager
 /system/system_ext/priv-app/YadaYada
 /system/framework/services.jar
+/system/system_ext/priv-app/NexusLauncherRelease
 "
 # Enable silky GBoard
 ##########################################################################################
